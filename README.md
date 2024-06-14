@@ -33,3 +33,11 @@
 4. **Receive Confirmation:** Once the payment is confirmed, users receive a digital ticket and a confirmation message with all the details.
 
 Our Movie Booking Application is designed to enhance your movie-going experience by making the booking process effortless and enjoyable. From discovering new movies to securing your favorite seats, our application ensures that your next movie night is just a few clicks away. Experience the future of movie bookings with our innovative and user-centric platform."
+# Screenshots
+![Screenshot (36)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/d12140fa-70cb-4fbf-9a8b-f33983ef064a)
+![Screenshot (37)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/ddb34ac3-456b-4c97-85c4-9f5f31c9e56f)
+![Screenshot (38)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/ffb66217-ffce-4c1f-b19b-6b5b0de0448c)
+![Screenshot (39)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/913e3823-9f89-43a1-8c00-fc8bfefe5581)
+![Screenshot (40)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/fa097b38-4c83-49d1-8478-80fcd397426c)
+![Screenshot (41)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/690b772f-0ebb-48be-9a43-318c8978facd)
+
